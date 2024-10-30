@@ -1,0 +1,228 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-25 18:28+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: blinko-broadcaster-config.php:21
+msgid "Download BlinkoTV Broadcaster desktop application"
+msgstr ""
+
+#: blinko-broadcaster-config.php:49
+msgid ""
+"Table required for this plugin not found. Try deactivating/activating the "
+"plugin."
+msgstr ""
+
+#: blinko-broadcaster-config.php:49
+msgid "Also check out Required WordPress Version."
+msgstr ""
+
+#: blinko-broadcaster-config.php:76
+msgid "Could not set up soap connection or another error occured."
+msgstr ""
+
+#: blinko-broadcaster-help.php:14 blinko-broadcaster-manager.php:12
+#: blinko-broadcaster-setup.php:15 blinko-broadcaster-skins.php:13
+msgid "Access Denied on this section of the administrative area."
+msgstr ""
+
+#: blinko-broadcaster-help.php:24
+msgid "BlinkoTV Broadcaster Plugin Help"
+msgstr ""
+
+#: blinko-broadcaster-manager.php:20
+msgid "Your BlinkoTV Broadcaster is set up."
+msgstr ""
+
+#: blinko-broadcaster-manager.php:22
+msgid "Go here to see your BlinkoTV Player in action:"
+msgstr ""
+
+#: blinko-broadcaster-manager.php:24
+msgid "Check out your player"
+msgstr ""
+
+#: blinko-broadcaster-manager.php:24
+msgid "Go here to customize your BlinkoTV Player page:"
+msgstr ""
+
+#: blinko-broadcaster-manager.php:26
+msgid "Customize your player page"
+msgstr ""
+
+#: blinko-broadcaster-manager.php:27
+msgid "Go here for Blinko Player appearance and settings:"
+msgstr ""
+
+#: blinko-broadcaster-manager.php:29
+msgid "Customize appearance/settings"
+msgstr ""
+
+#: blinko-broadcaster-manager.php:30
+msgid "Refer to this page for further information:"
+msgstr ""
+
+#: blinko-broadcaster-manager.php:32 blinko-broadcaster.php:153
+msgid "Help"
+msgstr ""
+
+#: blinko-broadcaster-manager.php:34
+msgid "Share the broadcast page with your friends:"
+msgstr ""
+
+#: blinko-broadcaster-manager.php:35
+msgid "This plugin is brought to you by Blinko."
+msgstr ""
+
+#: blinko-broadcaster-manager.php:39
+msgid "Your BlinkoTV Broadcaster is not setup yet."
+msgstr ""
+
+#: blinko-broadcaster-manager.php:41
+msgid "Setup your broadcaster"
+msgstr ""
+
+#: blinko-broadcaster-manager.php:46
+msgid "Manage BlinkoTV Player"
+msgstr ""
+
+#: blinko-broadcaster.php:141
+msgid "Broadcaster"
+msgstr ""
+
+#: blinko-broadcaster.php:141
+msgid "BlinkoTV Player"
+msgstr ""
+
+#: blinko-broadcaster.php:144
+msgid "Manage"
+msgstr ""
+
+#: blinko-broadcaster.php:147
+msgid "Setup"
+msgstr ""
+
+#: blinko-broadcaster.php:150
+msgid "Skins/Settings"
+msgstr ""
+
+#: blinko-broadcaster-setup.php:44
+msgid "Could not create account."
+msgstr ""
+
+#: blinko-broadcaster-setup.php:50
+msgid "Account created successfully."
+msgstr ""
+
+#: blinko-broadcaster-setup.php:89 blinko-broadcaster-setup.php:90
+msgid "My Blinko Show"
+msgstr ""
+
+#: blinko-broadcaster-setup.php:100
+msgid "Could not create broadcaster page."
+msgstr ""
+
+#: blinko-broadcaster-setup.php:113
+msgid "Could not insert info about BlinkoTV Player."
+msgstr ""
+
+#: blinko-broadcaster-setup.php:118
+msgid "Account activated successfully. Broadcasting page created successfully."
+msgstr ""
+
+#: blinko-broadcaster-setup.php:135
+msgid "This form will setup BlinkoTV Broadcaster for Wordpress."
+msgstr ""
+
+#: blinko-broadcaster-setup.php:136
+msgid ""
+"Follow the instructions during setup and have fun using the BlinkoTV "
+"Broadcaster Plugin."
+msgstr ""
+
+#: blinko-broadcaster-setup.php:137
+msgid "Your email address:"
+msgstr ""
+
+#: blinko-broadcaster-setup.php:138
+msgid "Setup Account!"
+msgstr ""
+
+#: blinko-broadcaster-setup.php:167
+msgid "Validation number"
+msgstr ""
+
+#: blinko-broadcaster-setup.php:168
+msgid "Confirm account"
+msgstr ""
+
+#: blinko-broadcaster-setup.php:185
+msgid ""
+"To complete the setup stage you must confirm the account using the "
+"validation number received via email."
+msgstr ""
+
+#: blinko-broadcaster-setup.php:196
+msgid "Your BlinkoTV Broadcaster is setup and ready to go. "
+msgstr ""
+
+#: blinko-broadcaster-setup.php:198
+msgid ""
+"Before you can start broadcasting please download and install the following "
+"application:"
+msgstr ""
+
+#: blinko-broadcaster-setup.php:207
+msgid "Setup BlinkoTV Broadcaster"
+msgstr ""
+
+#: blinko-broadcaster-skins.php:43
+msgid "Could not update skin."
+msgstr ""
+
+#: blinko-broadcaster-skins.php:46
+msgid "Settings for BlinkoTV Player updated successfully."
+msgstr ""
+
+#: blinko-broadcaster-skins.php:71
+msgid "Chat disabled"
+msgstr ""
+
+#: blinko-broadcaster-skins.php:120
+msgid "Change"
+msgstr ""
+
+#: blinko-broadcaster-skins.php:127
+msgid "No available skins found."
+msgstr ""
+
+#: blinko-broadcaster-skins.php:132
+msgid ""
+"To be able to select your favorite broadcaster skin please refer first to "
+"Setup area."
+msgstr ""
+
+#: blinko-broadcaster-skins.php:137
+msgid "BlinkoTV Player Skins and Setting"
+msgstr ""
+
+#: functions.php:194
+msgid "Unknown error occured"
+msgstr ""
+
+#: functions.php:283
+msgid "Sorry, could not perform action, following error(s) occured:"
+msgstr ""

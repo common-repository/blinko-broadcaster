@@ -1,0 +1,27 @@
+table#skins { 
+	width: 650px;
+}
+table#skins tr td {
+	vertical-align: top;
+	padding: 10px;
+	text-align: center;
+}
+div.broadcaster_exceptions {
+	color:#D54E21;
+}
+div.broadcaster_errors {
+	color:red;
+}
+p.help_faqtitle {
+	font-weight: bold;
+	margin-bottom:3px;
+}
+fieldset.b_fieldset {
+	border:1px solid #DADADA;
+	padding:5px;
+}
+legend.b_legend {
+	font-size:16px; 
+	color:#666666;
+	padding:4px;
+}
